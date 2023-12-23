@@ -1,0 +1,2 @@
+# GotFastLS
+Na logike
